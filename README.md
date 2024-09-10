@@ -1,7 +1,7 @@
 # Test-exercises
 Estágio - Ribeirão Preto Desenvolvedor
 
-# Iniciando o projeto
+# Iniciando o projeto em (JavaScript)
 1. Precisa ter o node.js instalado no computador.
 
 link: https://nodejs.org/en/download/package-manager
